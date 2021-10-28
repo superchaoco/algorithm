@@ -36,6 +36,7 @@ public class LinedkListAdd {
 
         // 定义每次求和的sum
         int sum;
+
         // 定义进位数
         int temp = 0;
 
